@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" href="css/estilos.css">
 </head>
 <body>
-<font face="Algerian"</font>
+<font face="arial"</font>
 <H1><center><p style="color:red";>Campeones y su posición en el juego
 <body >
 
