@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" href="css/estilos.css">
 </head>
 <body>
-<font face="arial"</font>
+<font face="Arial"</font>
 <H1><center><p style="color:red";>Torneos y Ligas internacionales
 <body >
 
