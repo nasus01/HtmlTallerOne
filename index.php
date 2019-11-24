@@ -6,7 +6,7 @@
 </head>
 <body>
 <!--body background="jhin.jpg";-->   
-<font face="Algerian"</font>
+<font face="arial"</font>
 <H1><center><p style="color:red";>Bienvenido A 
 <br><img src="League_of_legends_logo_transparent.png"widht="300" height="300"/> </br>
 <nav>
